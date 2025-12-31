@@ -1,21 +1,24 @@
 ## Hi there 👋
 
-My name is Bryce, and I'm a Computer Science student at BYU–Idaho passionate about technology, problem solving, and building useful projects. I enjoy working with **Python**, exploring **AI & Machine Learning**, and developing **backend systems** that bring ideas to life.
+My name is Bryce, and I'm a Computer Science student at BYU–Idaho, passionate about technology, problem solving, and building useful projects. I enjoy working with **Python**, exploring **AI & Machine Learning**, and developing **backend systems** that bring ideas to life.
 
 ### 🔭 What I’m working on 
 - Building hands-on projects to strengthen my skills 
 - Exploring open-source contributions and collaborative development
+- Applying to internships & completing the last year of classes
 
 ### 🚀 Some of my projects
 
-- 🎰 [Slot Machine Simulator](https://github.com/yourusername/slot-machine-simulator)  
+- 🎰 [CLI Slot Machine](https://github.com/btyre1/Python-Projects/tree/main/SlotMachine)  
   *Python console game with betting system*  
 
-- ✅ [Goal Tracker App](https://github.com/yourusername/goal-tracker)  
-  *Track and save personal/spiritual goals in C#*  
+- ✅ [Smart Habit Tracker](https://github.com/btyre1/SmartHabitTracker)  
+  *Track and save habits in C#*  
 
-- 🎬 [Movie Recommendation System](https://github.com/yourusername/movie-recommender)  
-  *Machine learning project for movie recommendations*  
+- 🎬 [Portfolio Website](https://github.com/btyre1/PortfolioWebsite)  
+  *Django project to showcase skills & other projects*
+
+- 
 
 
 
