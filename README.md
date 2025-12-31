@@ -18,8 +18,8 @@ My name is Bryce, and I'm a Computer Science student at BYU–Idaho, passionate 
 - 🎬 [Portfolio Website](https://github.com/btyre1/PortfolioWebsite)  
   *Django project to showcase skills & other projects*
 
-- 
-
+- 💼 [Job Market Analysis](https://github.com/btyre1/JobMarketAnalysis)
+  *Analyze LinkedIn job postings to identify top in-demand skills, highest-paying job titles, and salary trends*
 
 
 <!--
